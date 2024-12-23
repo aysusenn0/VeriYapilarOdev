@@ -1,3 +1,6 @@
+Hayrunnisa Toymuş - 24120205093
+Aysu Şen - 24120205094
+Esra Kanğ - 24120205085
 Ana Amaç
 Müşteri ve gönderi bilgilerinin yönetimi, kargo rotalarının hesaplanması, kargo sıralaması ve teslimat süreçlerinin izlenmesi için bir sistem geliştirilmiştir.
 
